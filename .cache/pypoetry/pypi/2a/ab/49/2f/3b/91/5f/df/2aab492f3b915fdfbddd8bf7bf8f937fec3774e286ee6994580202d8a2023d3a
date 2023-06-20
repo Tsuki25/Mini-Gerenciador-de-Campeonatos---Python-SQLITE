@@ -1,0 +1,1 @@
+9999999999{"name": "contextlib2", "version": "21.6.0", "summary": "Backports and enhancements for the contextlib module", "platform": "", "requires_dist": null, "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}

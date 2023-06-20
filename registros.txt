@@ -1,0 +1,17 @@
+As classes são:
+  Time
+  Administrador
+  Mapa
+  Jogador
+  Partida
+  Partida_individual
+
+Cada uma das classes possuem os seus respectivos CRUDs.
+
+
+Como um todo, o sistema deve possuir:
+
+Criar um menu para fazer os inserts básicos no banco, como por exemplo cadastrar os times/jogadores.
+
+
+Opcionais: criptografia -> LOGIN/SENHA

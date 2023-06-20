@@ -1,0 +1,21 @@
+# CORES
+RED   = "\033[1;31m" 
+GREEN = "\033[1;32m"
+GOLD = "\033[1;33m"
+BLUE  = "\033[1;34m"
+PINK = "\033[1;35m"
+CYAN  = "\033[1;36m"
+GRAY = "\033[1;37m"
+
+RED_UNBOLD   = "\033[2;31m" 
+GREEN_UNBOLD = "\033[2;32m"
+GOLD_UNBOLD = "\033[2;33m"
+BLUE_UNBOLD  = "\033[2;34m"
+PINK_UNBOLD = "\033[2;35m"
+CYAN_UNBOLD  = "\033[2;36m"
+GRAY_UNBOLD = "\033[2;37m"
+
+RESET = "\033[0;0m"
+BOLD    = "\033[;1m"
+REVERSE = "\033[;7m"
+# CORES
