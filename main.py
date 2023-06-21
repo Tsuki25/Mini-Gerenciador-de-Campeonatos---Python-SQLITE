@@ -12,7 +12,7 @@ import view.menu_principal
 
 if __name__ == '__main__':
   limpar()
-  banco = "testes"
+  banco = "banco_entrega"
   conn = control.schema.criar_banco(banco)
   func_subs = view.func_submenus.func_subs(conn)
 

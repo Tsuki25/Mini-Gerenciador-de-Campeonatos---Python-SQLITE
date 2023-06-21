@@ -421,9 +421,6 @@ def menu_partida_ind(entidade, conn):
     limpar()
 
   elif(selecionado == 4):
-    #exibir o gráfico
-    limpar()
-  elif(selecionado == 5):
     print(cores.BLUE + "Retornando ao menu principal!" + cores.RESET)
     enter = input(cores.CYAN + "Pressione <ENTER> para continuar..." + cores.RESET)
     limpar()
